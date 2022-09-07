@@ -1,0 +1,1 @@
+While For Each Döngüsü kullanılarak bir örnek console uygulaması yapılmıştır.
